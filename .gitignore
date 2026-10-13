@@ -1,0 +1,14 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Machine-local and large downloaded data
+*.sqlite
+*.db
+.env
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
